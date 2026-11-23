@@ -1,0 +1,6 @@
+{
+  "name": "知险",
+  "description": "有些话，可以先练一遍。面向大学生的租房、实习与兼职情景沟通陪练应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
